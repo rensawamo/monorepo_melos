@@ -38,9 +38,6 @@ EX)
 
 
 
-###  backend/routes/tasks/\middleware.dart
-
-
 
 ## セットアップ
 以下のコマンドを実行

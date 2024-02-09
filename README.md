@@ -34,7 +34,8 @@ BFF の実装
 EX)
 
 
-![image](https://github.com/rensawamo/melos_monorepo/assets/106803080/c13118bf-8acd-442d-8f27-4032a03521a8)
+![image](https://github.com/rensawamo/monorepo_melos/assets/106803080/eb01e7db-10a7-4548-83ef-077e0de18b1a)
+
 
 
 
@@ -112,7 +113,8 @@ melos bs
 ``` 
 
 
-![image](https://github.com/rensawamo/melos_monorepo/assets/106803080/e721af7c-83b3-430f-a6db-e77a6d8dd27f)
+![image](https://github.com/rensawamo/monorepo_melos/assets/106803080/456f8305-62dd-44e3-a5d7-ffa1ec03c60c)
+
 
 
 
@@ -127,7 +129,8 @@ flutter pub get
 以下のようになれば set up 完了
 
 
-![image](https://github.com/rensawamo/melos_monorepo/assets/106803080/dd3f2661-c625-4afc-9507-2f8ac3ffa00b)
+![image](https://github.com/rensawamo/monorepo_melos/assets/106803080/e6f20967-b97e-4170-b77a-f5ca4b5487ee)
+
 
 
 

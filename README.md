@@ -14,13 +14,17 @@
 ## BFF
 
 
-## 各ファイルの役割
+## 主要 各ファイルの役割
 
 ###  packages/shared
 1. 複数のプロジェクトで共通して使用される機能（例えば、日付のフォーマット、カスタムデータ構造、ネットワークリクエストの処理など）を抽象化し、一箇所で管理
 2. 特定の外部APIとの通信を担うクライアントをパッケージとして定義し、複数のプロジェクト間で再利用
 3. ビジネスロジックやドメインモデルをパッケージ化し、それを異なるフロントエンドやバックエンドプロジェクトで共有する(BFFパターン時に有用)
 4. iOS Andoroid の複数プラットフォーム開発時の管理に有効
+
+
+###  backend/routes/tasks/\middleware.dart
+
 
 
 ## セットアップ
@@ -73,14 +77,12 @@ dart_frog dev
 
 packeages ディレクトリに移動し 以下のコマンドを実行し、frontend ディレクトリを作成する
 ```sh
-cd  
 flutter create frontend
 ```
 
 
 以下コマンドを実行し、shared ディレクトリを作成する
 ```sh
-cd  
 dart create -t package shared
 ```
 
@@ -114,6 +116,8 @@ flutter pub get
 
 
 ![image](https://github.com/rensawamo/melos_monorepo/assets/106803080/dd3f2661-c625-4afc-9507-2f8ac3ffa00b)
+
+
 
 
 

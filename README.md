@@ -108,6 +108,8 @@ dependencies:
 ```
 
 ルートディレクトリに移動し 以下コマンドを実行する
+
+melos.yamlのスクリプトが実行可能になる
 ```sh
 melos bs
 ``` 

@@ -96,7 +96,6 @@ dependencies:
 ```sh
 melos bs
 ``` 
-以下のようになれば、set up 成功
 
 
 ![image](https://github.com/rensawamo/melos_monorepo/assets/106803080/e721af7c-83b3-430f-a6db-e77a6d8dd27f)
@@ -104,20 +103,17 @@ melos bs
 
 
 
+## ディレクトリ間の依存関係
+packages/backend に移動し以下のコマンドを入力
+```sh
+flutter pub get 
+```
 
 
+以下のようになれば set up 完了
 
 
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/rensawamo/melos_monorepo/assets/106803080/dd3f2661-c625-4afc-9507-2f8ac3ffa00b)
 
 
 

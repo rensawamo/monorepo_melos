@@ -1,0 +1,6 @@
+name: melos_app
+
+packages:
+  - packages/*
+
+scripts:

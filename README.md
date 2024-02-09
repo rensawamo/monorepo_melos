@@ -10,8 +10,33 @@
 
 ・ライブラリのバージョン管理が楽
 
+### 利用技術
+・ Melos 
 
-## BFF
+
+パッケージの管理
+
+ ・ Dart Frog
+
+ 
+ BFF の実装
+
+
+ 
+ 
+
+## BFF 構築
+ フロントエンドの要件に合わせて最適化されたAPIやデータを提供する
+
+ 
+ バックエンドシステムの複雑さの隠蔽
+
+EX)
+
+
+![image](https://github.com/rensawamo/melos_monorepo/assets/106803080/c13118bf-8acd-442d-8f27-4032a03521a8)
+
+
 
 
 ## 主要 各ファイルの役割
